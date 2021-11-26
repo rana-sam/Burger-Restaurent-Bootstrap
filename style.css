@@ -1,0 +1,27 @@
+.group1{
+    background-image: url("./image/BackGround\ \(1\).png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+.group1h1{
+    font-size: 7rem;
+}
+.group2{
+    background-color: rgb(240, 237, 233);
+}
+.img img{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+.group2chi{
+    position: relative;
+    top: 130px;
+    right: 30px;
+}
+.group2mus{
+    position: relative;
+    left: 60%;
+    transform: rotate(80deg);
+}

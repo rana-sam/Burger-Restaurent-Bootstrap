@@ -25,3 +25,17 @@
     left: 60%;
     transform: rotate(80deg);
 }
+.group3{
+    background-color: rgb(246, 75, 60);
+    color: white;
+}
+.btn{
+    color: rgb(246, 75, 60);
+}
+.group3h1{
+    font-size: 4rem;
+}
+.group3img{
+    margin-top: 7%;
+    margin-left: 12%;
+}
